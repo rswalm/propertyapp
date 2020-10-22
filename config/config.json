@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "Anuj@1995",
+    "password": "root",
     "database": "propertyadd_db",
     "host": "127.0.0.1",
     "port": 3306,
